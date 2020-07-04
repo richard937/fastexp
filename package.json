@@ -1,0 +1,9 @@
+{
+  "name": "fastexp",
+  "description": "A boilerplate for making extension",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "create-ex": "node test.js"
+  }
+}
