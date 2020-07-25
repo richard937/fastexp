@@ -1,0 +1,26 @@
+{
+  "name": "fastextn",
+  "description": "A boilerplate for making extension faster",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Papun Charan <papuncharan@gmail.com> (https://richard937.github.io/)",
+  "homepage": "https://richard937.github.io/fastextn/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richard937/fastextn.git"
+  },
+  "keywords": [
+    "extension",
+    "cli",
+    "shell",
+    "fast",
+    "script"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-it": "./cli.js"
+  },
+  "dependencies": {}
+}
