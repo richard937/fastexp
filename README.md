@@ -8,3 +8,5 @@
 - It will install the extension globally
 - Now run the command `create-it`
 - It will create a directory with required files
+
+*** Check this out [here](https://www.npmjs.com/package/fastextn).
